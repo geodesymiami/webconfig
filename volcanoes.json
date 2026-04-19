@@ -178,6 +178,22 @@
         },
         {
             "id": 332010,
+            "name": "Kilauea vertical",
+            "country": "United States",
+            "type": "Shield",
+            "activity_evidence": "Eruption Observed",
+            "last_known_eruption": "2023 CE",
+            "region": "Hawaii and Pacific Ocean",
+            "subregion": "Hawaiian Islands",
+            "latitude": 19.421,
+            "longitude": -155.287,
+            "elevation": 1222,
+            "dominant_rock_type": "Basalt / Picro-Basalt",
+            "tectonic_setting": "Intraplate / Oceanic crust (< 15 km)",
+            "volcdef_link": "https://insarmaps.miami.edu/start/19.4032/-155.2273/10.9779?flyToDatasetCenter=false&startDataset=S1_vert_087_124_mintpy_20180902_XXXXXXXX_N1978W15586_N1978W15473_N1912W15473_N1912W15586&pointLat=19.39940&pointLon=-155.27805&minScale=-20&maxScale=20&startDate=20180902&endDate=20260228&pixelSize=3.3"
+        },
+        {
+            "id": 332010,
             "name": "Kilauea and Mauna Loa",
             "country": "United States",
             "type": "Shield",
@@ -207,6 +223,22 @@
             "dominant_rock_type": "Basalt / Picro-Basalt",
             "tectonic_setting": "Intraplate / Oceanic crust (< 15 km)",
             "volcdef_link": "http://149.165.154.65/data/HDF5EOS/HawaiiPuna/miaplpy"
+        },
+        {
+            "id": 332020,
+            "name": "Mauna Loa vertical",
+            "country": "United States",
+            "type": "Shield",
+            "activity_evidence": "Eruption Observed",
+            "last_known_eruption": "2022 CE",
+            "region": "Hawaii and Pacific Ocean",
+            "subregion": "Hawaiian Islands",
+            "latitude": 19.475,
+            "longitude": -155.608,
+            "elevation": 4170,
+            "dominant_rock_type": "Basalt / Picro-Basalt",
+            "tectonic_setting": "Intraplate / Oceanic crust (< 15 km)",
+            "volcdef_link": "https://insarmaps.miami.edu/start/19.4471/-155.5232/11.1279?flyToDatasetCenter=false&startDataset=S1_vert_087_124_mintpy_20180902_XXXXXXXX_N1978W15586_N1978W15473_N1912W15473_N1912W15586&pointLat=19.45732&pointLon=-155.58243&minScale=-10&maxScale=10&startDate=20221228&endDate=20260228&pixelSize=3.3https://insarmaps.miami.edu/start/19.4471/-155.5232/11.1279?flyToDatasetCenter=false&startDataset=S1_vert_087_124_mintpy_20180902_XXXXXXXX_N1978W15586_N1978W15473_N1912W15473_N1912W15586&pointLat=19.45732&pointLon=-155.58243&minScale=-10&maxScale=10&startDate=20221228&endDate=20260228&pixelSize=3.3"
         },
         {
             "id": 351110,
