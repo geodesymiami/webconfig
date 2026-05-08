@@ -337,7 +337,7 @@
             "elevation": 1431,
             "dominant_rock_type": "Andesite / Basaltic Andesite",
             "tectonic_setting": "Subduction zone / Crustal thickness unknown",
-            "volcdef_link": "149.165.154.65/data/HDF5EOS/Lewotolok/miaplpy/overlay.html#/start/-8.2727/123.5110/14.6000?minScale=-1.5&maxScale=1.5&pixelSize=5.5&background=satellite",
+            "volcdef_link": "http://149.165.154.65/data/HDF5EOS/Lewotolok/miaplpy/overlay.html#/start/-8.2727/123.5110/14.6000?minScale=-1.5&maxScale=1.5&pixelSize=5.5&background=satellite",
             "Landslide": false
         },
         {
