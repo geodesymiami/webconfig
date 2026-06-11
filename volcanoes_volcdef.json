@@ -60,12 +60,12 @@
             "last_known_eruption": "2023 CE",
             "region": "Mediterranean and Western Asia",
             "subregion": "Italy",
-            "latitude": 37.738,
-            "longitude": 14.999,
+            "latitude": 37.638000000000005,
+            "longitude": 15.099,
             "elevation": 3357,
             "dominant_rock_type": "Trachybasalt / Tephrite Basanite",
             "tectonic_setting": "Subduction zone / Continental crust (>25 km)",
-            "volcdef_link": "http://149.165.154.65/data/HDF5EOS/Etna/miaplpy",
+            "volcdef_link": "FALSE http://149.165.154.65/data/HDF5EOS/Etna/miaplpy",
             "Landslide": false
         },
         {
@@ -443,6 +443,23 @@
             "Landslide": false
         },
         {
+            "id": 342110,
+            "name": "Pacaya",
+            "country": "Guatemala",
+            "type": "Complex",
+            "activity_evidence": "Eruption Observed",
+            "last_known_eruption": "2021 CE",
+            "region": "M\u00e9xico and Central America",
+            "subregion": "Guatemala",
+            "latitude": 14.382,
+            "longitude": -90.601,
+            "elevation": 2569,
+            "dominant_rock_type": "Basalt / Picro-Basalt",
+            "tectonic_setting": "Subduction zone / Continental crust (>25 km)",
+            "volcdef_link": "http://149.165.154.65/data/HDF5EOS/Pacaya/miaplpy/overlay.html#/?minScale=-5&maxScale=5&background=hillshade&contour=true",
+            "Landslide": false
+        },
+        {
             "id": 351110,
             "name": "Chiles-Cerro Negro",
             "country": "Colombia-Ecuador",
@@ -610,6 +627,23 @@
             "dominant_rock_type": "Basalt / Picro-Basalt",
             "tectonic_setting": "Rift zone / Oceanic crust (< 15 km)",
             "volcdef_link": "http://149.165.154.65/data/HDF5EOS/CerroAzul/mintpy",
+            "Landslide": false
+        },
+        {
+            "id": 360150,
+            "name": "Soufriere St. Vincent",
+            "country": "Saint Vincent and the Grenadines",
+            "type": "Stratovolcano",
+            "activity_evidence": "Eruption Observed",
+            "last_known_eruption": "2021 CE",
+            "region": "West Indies",
+            "subregion": "West Indies",
+            "latitude": 13.33,
+            "longitude": -61.18,
+            "elevation": 1220,
+            "dominant_rock_type": "Andesite / Basaltic Andesite",
+            "tectonic_setting": "Subduction zone / Oceanic crust (< 15 km)",
+            "volcdef_link": "http://149.165.154.65/data/HDF5EOS/StVincent/miaplpy/overlay.html#/?minScale=-3&maxScale=3",
             "Landslide": false
         },
         {
