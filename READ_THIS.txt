@@ -7,3 +7,5 @@ To add new volcanoes make sure /var/www/webconfig is updated:
 cd /var/www/webconfig
 git pull
 
+sudo systemctl restart apache2
+
