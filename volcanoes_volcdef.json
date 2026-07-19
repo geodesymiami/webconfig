@@ -52,23 +52,6 @@
             "Landslide": false
         },
         {
-            "id": 211060,
-            "name": "Etna (miaplpy)",
-            "country": "Italy",
-            "type": "Stratovolcano(es)",
-            "activity_evidence": "Eruption Observed",
-            "last_known_eruption": "2023 CE",
-            "region": "Mediterranean and Western Asia",
-            "subregion": "Italy",
-            "latitude": 37.638000000000005,
-            "longitude": 15.099,
-            "elevation": 3357.0,
-            "dominant_rock_type": "Trachybasalt / Tephrite Basanite",
-            "tectonic_setting": "Subduction zone / Continental crust (>25 km)",
-            "volcdef_link": "FALSE http://149.165.154.65/data/HDF5EOS/Etna/miaplpy",
-            "Landslide": false
-        },
-        {
             "id": 212040,
             "name": "Santorini",
             "country": "Greece",
