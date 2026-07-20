@@ -188,6 +188,23 @@
             "Landslide": false
         },
         {
+            "id": 233010,
+            "name": "Karthala",
+            "country": "Comoros",
+            "type": "Shield",
+            "activity_evidence": "Eruption Observed",
+            "last_known_eruption": "2007 CE",
+            "region": "Middle East and Indian Ocean",
+            "subregion": "Indian Ocean (western)",
+            "latitude": -11.75,
+            "longitude": 43.38,
+            "elevation": 2361.0,
+            "dominant_rock_type": "Basalt / Picro-Basalt",
+            "tectonic_setting": "Intraplate / Oceanic crust (< 15 km)",
+            "volcdef_link": true,
+            "Landslide": false
+        },
+        {
             "id": 261080,
             "name": "Sinabung",
             "country": "Indonesia",
