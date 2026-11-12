@@ -320,7 +320,7 @@
             "elevation": 2850.0,
             "dominant_rock_type": "Trachybasalt / Tephrite Basanite",
             "tectonic_setting": "Subduction zone / Continental crust (>25 km)",
-            "volcdef_link": "http://149.165.153.50/start/-8.2450/117.9958/12.5292?flyToDatasetCenter=false&startDataset=S1_asc_083_miaplpy_20141023_20250215_S0836E11794_S0832E11809_S0817E11806_S0820E11792_filtDel4DS&minScale=-3&maxScale=3&startDate=20141023&endDate=20250215&pixelSize=2.1&background=satellite",
+            "volcdef_link": "http://149.165.154.65/data/HDF5EOS/Tambora/miaplpy",
             "Landslide": false
         },
         {
